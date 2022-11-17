@@ -1,9 +1,0 @@
-Testsuite: simpledb.systemtest.BTreeFileDeleteTest
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.222 sec
-
-Testcase: testRedistributeLeafPages took 0.028 sec
-Testcase: testMergeLeafPages took 0.015 sec
-Testcase: testDeleteRootPage took 0.008 sec
-Testcase: testReuseDeletedPages took 0.03 sec
-Testcase: testDeleteInternalPages took 0.223 sec
-Testcase: testRedistributeInternalPages took 0.893 sec
