@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Spandanas-MacBook-Pro.local" name="simpledb.RecordIdTest" skipped="0" tests="4" time="0.033" timestamp="2022-11-01T02:02:04">
+  <properties>
+    <property name="testd" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/test" />
+    <property name="ant.library.dir" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452/lib" />
+    <property name="sourceversion" value="1.8" />
+    <property name="java.specification.version" value="18" />
+    <property name="lib" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/lib" />
+    <property name="ant.project.name" value="simpledb" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="build.src" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/bin/src" />
+    <property name="dist" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/dist" />
+    <property name="java.class.path" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/bin/src:/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/lib/zql.jar:/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/lib/jline-0.9.94.jar:/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/bin/test:/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/lib/junit-4.5.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452/lib/ant-launcher.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452/lib/ant.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452/lib/ant-junit.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452/lib/ant-junit4.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="ant.file.simpledb" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/build.xml" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="test.reports" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/testreport" />
+    <property name="compile.debug" value="true" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="java.vm.specification.version" value="18" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="user.country" value="US" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home/lib" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner simpledb.RecordIdTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/testreport/TEST-simpledb.RecordIdTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter,/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/testreport/TEST-simpledb.RecordIdTest.txt crashfile=/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/junitvmwatcher2255257961862966987.properties propsfile=/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/junit367759549725011595.properties" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="/Users/spandanapatil" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2022-08-18" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home" />
+    <property name="basedir" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main" />
+    <property name="file.separator" value="/" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="ant.java.version" value="18" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="doc" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/javadoc" />
+    <property name="apple.awt.application.name" value="JUnitTestRunner" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="jarfile" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/dist/simpledb.jar" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.runtime.version" value="18.0.2.1+1-1" />
+    <property name="java.security.manager" value="allow" />
+    <property name="user.name" value="spandanapatil" />
+    <property name="ant.file" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/build.xml" />
+    <property name="path.separator" value=":" />
+    <property name="os.version" value="12.6" />
+    <property name="build.test" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/bin/test" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="clean,test,test-report,systemtest" />
+    <property name="depcache" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/bin/depcache" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.core.lib" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452/lib/ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="/var/folders/kp/t0f17p952k1fr5t2pjj1y92c0000gn/T/" />
+    <property name="java.version" value="18.0.2.1" />
+    <property name="src" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/src" />
+    <property name="user.dir" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main" />
+    <property name="os.arch" value="aarch64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache.ant_1.10.12.v20211102-1452" />
+    <property name="ant.file.type.simpledb" value="file" />
+    <property name="native.encoding" value="UTF-8" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.12 compiled on October 13 2021" />
+    <property name="java.library.path" value="/Users/spandanapatil/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="build" value="/Users/spandanapatil/Desktop/CS660/CS660-pa1-main/bin" />
+    <property name="java.vm.version" value="18.0.2.1+1-1" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.class.version" value="62.0" />
+    <property name="ant.project.default-target" value="dist" />
+  </properties>
+  <testcase classname="simpledb.RecordIdTest" name="equals" time="0.004" />
+  <testcase classname="simpledb.RecordIdTest" name="getPageId" time="0.0" />
+  <testcase classname="simpledb.RecordIdTest" name="tupleno" time="0.0" />
+  <testcase classname="simpledb.RecordIdTest" name="hCode" time="0.001" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

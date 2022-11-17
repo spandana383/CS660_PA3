@@ -1,0 +1,8 @@
+Testsuite: simpledb.systemtest.BTreeFileInsertTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.032 sec
+
+Testcase: addDuplicateTuples took 0.105 sec
+Testcase: testSplitLeafPage took 0.011 sec
+Testcase: testSplitRootPage took 0.774 sec
+Testcase: testSplitInternalPage took 0.103 sec
+Testcase: addTuple took 0.014 sec

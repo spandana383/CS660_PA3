@@ -1,0 +1,6 @@
+Testsuite: simpledb.BTreeFileInsertTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.117 sec
+
+Testcase: testSplitLeafPages took 0.018 sec
+Testcase: testSplitInternalPages took 0.072 sec
+Testcase: testReusePage took 0.004 sec

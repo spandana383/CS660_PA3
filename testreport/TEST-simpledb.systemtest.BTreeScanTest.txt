@@ -1,0 +1,7 @@
+Testsuite: simpledb.systemtest.BTreeScanTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.508 sec
+
+Testcase: testSmall took 0.423 sec
+Testcase: testRewind took 0.004 sec
+Testcase: testRewindPredicates took 0.006 sec
+Testcase: testReadPage took 0.042 sec
